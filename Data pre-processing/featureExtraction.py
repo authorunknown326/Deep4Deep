@@ -327,7 +327,7 @@ if __name__ == '__main__':
         create_dir(index)
         counter = 0
         maxNumber = 0
-        AllDir =      ['/New Featues/Model#{0}'.format(Model_Number)] #[   '/Users/wardat/Desktop/ICSE2022/raw_data/Circle_AT/Circle/repaired'] 
+        AllDir =      ['/New Featues/Model#{0}'.format(Model_Number)]
         for current in AllDir:
             output = [dI for dI in os.listdir(current ) if os.path.isdir(os.path.join(current,dI))]
             for x in output:            
