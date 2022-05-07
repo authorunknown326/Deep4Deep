@@ -7,5 +7,9 @@
 ### [Modeling](https://github.com/authorunknown326/Deep4Deep/tree/main/Modeling)
 * [Source Code for LSTM model](https://github.com/authorunknown326/Deep4Deep/blob/main/Modeling/LSTM_Model.py)
 * [LoadModel](https://github.com/authorunknown326/Deep4Deep/blob/main/Modeling/loadModel.py)
-
+### [One Mutated Mode](https://github.com/authorunknown326/Deep4Deep/tree/main/Mutated%20Model)
+*[Result From DeepCrime](https://github.com/authorunknown326/Deep4Deep/tree/main/Mutated%20Model)
+*[Correct Model](https://github.com/authorunknown326/Deep4Deep/tree/main/Mutated%20Model/Correct)
+*[Output from Inject Multi-Bug Algorithm](https://github.com/authorunknown326/Deep4Deep/tree/main/Mutated%20Model)
+*[Sample from Mutated Model source code](https://github.com/authorunknown326/Deep4Deep/tree/main/Mutated%20Model/Buggy)
 
